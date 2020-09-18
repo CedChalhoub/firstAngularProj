@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8b4fff1-078f-46ff-af07-5bf39d7d31d5" name="Default Changelist" comment="First Angular Project">
+      <changelist_data name="Cedric Chalhoub" email="" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hhB0Qkj9inMMPgGvOCYzM7PBLJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (angular.io-example)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b4fff1-078f-46ff-af07-5bf39d7d31d5" name="Default Changelist" comment="" />
+      <created>1600453219593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600453219593</updated>
+      <workItem from="1600453220625" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Angular Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Angular Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1083" y="362" key="FileChooserDialogImpl" timestamp="1600453233547">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1083" y="362" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453233547" />
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1600453338063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453338063" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1600453338063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453338063" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1600453338062">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453338062" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1600453338063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453338063" />
+    <state x="1104" y="527" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600453299152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1104" y="527" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600453299152" />
+  </component>
+</project>
